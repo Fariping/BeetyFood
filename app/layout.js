@@ -1,8 +1,8 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'مطعمنا',
-  description: 'موقع مطعمنا للطلبات',
+  title: 'BEETYFOOD',
+  description: 'وجبات يوم السبت',
 }
 
 export default function RootLayout({ children }) {
